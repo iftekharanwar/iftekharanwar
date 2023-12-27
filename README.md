@@ -29,6 +29,6 @@
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![iftekharanwar's Stats](https://github-readme-stats.vercel.app/api?username=iftekharanwar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) | ![iftekharanwar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iftekharanwar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) |
+| ![iftekharanwar's Stats](https://github-readme-stats.vercel.app/api?username=iftekharanwar&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true) | ![iftekharanwar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iftekharanwar&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact) |
 
-![iftekharanwar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iftekharanwar&theme=vue-dark&hide_border=true)
+![iftekharanwar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iftekharanwar&theme=chartreuse-dark&hide_border=true)
