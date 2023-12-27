@@ -1,6 +1,6 @@
 ![logo](https://github.com/iftekharanwar/iftekharanwar/blob/main/Screenshot%202023-12-27%20at%2004.24.54.png)
 
-<h1 align="center">Hi there, I'm Iftekhar Anwar 👋</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4F7FF&center=true&random=false&width=435&lines=Hi+there%2C+I'm+Iftekhar+Anwar+%F0%9F%91%8B)](https://git.io/typing-svg)
 <h3 align="center">I'm a passionate developer and tech enthusiast. I love exploring new technologies and leveraging them to solve real-world problems.</h3>
 
   <img id="devco" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhndmgzOXB2MjljMTJpbTMwNjVzaXpobmY3dzlycDlxbjM2ZzVtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif" width="400"/>
