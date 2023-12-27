@@ -1,3 +1,5 @@
+![logo](https://github.com/iftekharanwar/iftekharanwar/blob/main/Screenshot%202023-12-27%20at%2004.24.54.png)
+
 <h1 align="center">Hi there, I'm Iftekhar Anwar 👋</h1>
 <h3 align="center">I'm a passionate developer and tech enthusiast. I love exploring new technologies and leveraging them to solve real-world problems.</h3>
 
