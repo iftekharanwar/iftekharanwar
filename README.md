@@ -1,13 +1,11 @@
 <h1 align="center">Hi there, I'm Iftekhar Anwar 👋</h1>
 <h3 align="center">I'm a passionate developer and tech enthusiast. I love exploring new technologies and leveraging them to solve real-world problems.</h3>
 
-<img align=“right” alt=“devco” width=“400” src=“https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhndmgzOXB2MjljMTJpbTMwNjVzaXpobmY3dzlycDlxbjM2ZzVtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif”>
+  <img id="devco" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhndmgzOXB2MjljMTJpbTMwNjVzaXpobmY3dzlycDlxbjM2ZzVtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif" width="400"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftekharanwar" alt="iftekharanwar" /></a> </p>
+- 🛰️ I'm a Student Team Leader of [CUBESAT at PoliTo.](https://cubesat-team-polito.com)
 
-- 🛰️ I'm a Student Team Leader of [CUBESAT at PoliTo since December 2023.](https://cubesat-team-polito.com)
-
-- 🛬 I’m currently working on FSI division of [Team S55 at PoliTo since October 2023.](http://www.teams55.polito.it)
+- 🛬 I’m currently working on FSI division of [Team S55 at PoliTo,](http://www.teams55.polito.it)
 
 - 🚀 I used to be a part of [Polito Rocket Team.](https://www.politorocketteam.it/projects)
 
