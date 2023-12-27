@@ -25,8 +25,9 @@
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iftekharanwar&bg_color=000000&color=b1dd8c&line=4f7a28&point=f2f7b7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iftekharanwar&show_icons=true&locale=en&layout=compact" alt="iftekharanwar" /></p>
+![iftekharanwar's Stats](https://github-readme-stats.vercel.app/api?username=iftekharanwar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iftekharanwar&show_icons=true&locale=en" alt="iftekharanwar" /></p>
+![iftekharanwar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iftekharanwar&theme=vue-dark&hide_border=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iftekharanwar&" alt="iftekharanwar" /></p>
+![iftekharanwar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iftekharanwar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
