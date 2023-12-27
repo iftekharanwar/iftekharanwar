@@ -7,11 +7,11 @@
 
 - 🛰️ I'm a Student Team Leader of [CUBESAT at PoliTo.](https://cubesat-team-polito.com)
 
-- 🛬 I’m currently working on FSI division of [Team S55 at PoliTo,](http://www.teams55.polito.it)
+- 🛬 I’m currently working on FSI division of [Team S55 at PoliTo.](http://www.teams55.polito.it)
 
 - 🚀 I used to be a part of [Polito Rocket Team.](https://www.politorocketteam.it/projects)
 
-- 🌱 I’m currently learning and progressing in the field of management working with SIT PoliTo. [https://socialinnovationteams.org/en/sit-social-innovation-teams-2/](https://socialinnovationteams.org/en/sit-social-innovation-teams-2/)
+- 🌱 Furthermore, I'm learning and progressing in the field of business management working with SIT PoliTo. [https://socialinnovationteams.org/en/sit-social-innovation-teams-2/](https://socialinnovationteams.org/en/sit-social-innovation-teams-2/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
