@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4F7FF&center=true&random=false&width=435&lines=Hi+there%2C+I'm+Iftekhar+Anwar+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<h3 align="center">I'm a student at [Politecnico di Torino](https://www.polito.it) who loves to wander around and learn stuff in order to make a change. I'm a passionate developer and tech enthusiast.</h3>
+<h3 align="center">I'm an undergrad who loves to wander around and learn stuff in order to make a change. I'm a passionate developer and tech enthusiast.</h3>
+
+    https://www.polito.it
 
   <img id="devco" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhndmgzOXB2MjljMTJpbTMwNjVzaXpobmY3dzlycDlxbjM2ZzVtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif" width="400"/>
 
