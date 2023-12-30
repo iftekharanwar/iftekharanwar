@@ -119,6 +119,7 @@
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
 </p>
 
+
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iftekharanwar&bg_color=000000&color=b1dd8c&line=4f7a28&point=f2f7b7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
