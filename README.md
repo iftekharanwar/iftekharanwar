@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm an undergrad who loves to wander around and learn stuff in order to make a change. I'm a passionate developer and tech enthusiast.</h3>
 
-    https://www.polito.it
+    iftekharanwar.com
 
 
 - 🛰️ I'm a Student Team Leader of [CUBESAT](https://cubesat-team-polito.com) at PoliTo.
