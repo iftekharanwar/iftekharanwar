@@ -1,105 +1,43 @@
-<!--![logo](https://github.com/iftekharanwar/iftekharanwar/blob/main/Screenshot%202023-12-27%20at%2004.24.54.png)
+# 🕮 Chronicle of Iftekhar Anwar | Digital Cartographer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4F7FF&center=true&random=false&width=435&lines=Hi+there%2C+I'm+Iftekhar+Anwar+%F0%9F%91%8B)](https://git.io/typing-svg)
+## 📜 Proclamation of Purpose
 
-<h3 align="center">I'm an undergrad who loves to wander around and learn stuff in order to make a change. I'm a passionate developer and tech enthusiast.</h3>
+Hark! I am an undergraduate scholar, a wandering intellect driven by an insatiable quest for knowledge and transformation. As a passionate developer and technology enthusiast, I traverse the realms of innovation with unbridled curiosity.
 
-    iftekharanwar.com
+## 🏛️ Imperial Domains of Exploration
 
+### 🛰️ Scholarly Expeditions
+- Esteemed Leader of the [CUBESAT](https://cubesat-team-polito.com) Celestial Exploration Squadron at PoliTo
+- Architect of the FSI Division within [Team S55](http://www.teams55.polito.it) at PoliTo
+- Veteran of the Illustrious [Polito Rocket Team](https://www.politorocketteam.it/projects)
+- Diplomatic Envoy with [SIT PoliTo](https://socialinnovationteams.org/en/sit-social-innovation-teams-2/) in the Realm of Business Management
 
-- 🛰️ I'm a Student Team Leader of [CUBESAT](https://cubesat-team-polito.com) at PoliTo.
+## 🗺️ Cartography of Technological Mastery
 
-- 🛬 I’m currently working on FSI division of [Team S55](http://www.teams55.polito.it) at PoliTo.
+### Instruments of Creation
+![Java](https://img.shields.io/badge/Java-🔧_Artisan's_Forge-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-🖋️_Scribal_Art-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-🏰_Digital_Citadel-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-🌐_Networked_Realm-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-📚_Scrolls_of_Data-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- 🚀 I used to be a part of [Polito Rocket Team.](https://www.politorocketteam.it/projects)
+## 🏆 Chronicles of Achievement
 
-- 🌱 Furthermore, I'm learning and progressing in the field of business management working with [SIT PoliTo.](https://socialinnovationteams.org/en/sit-social-innovation-teams-2/)
+![Iftekharul's Scholarly Metrics](https://github-readme-stats.vercel.app/api?username=iftekharanwar&theme=dark&show_icons=true&rank_icon=github&border_radius=10)
 
-<h3 align="left">Connect with me:</h3>
+![Linguistic Dominions](https://github-readme-stats.vercel.app/api/top-langs/?username=iftekharanwar&layout=compact&theme=dark&border_radius=10)
 
-<p align="left">
-  <a href="https://linkedin.com/in/iftekharanwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iftekharanwar" height="30" width="40" /></a>
-  <a href="https://instagram.com/wespaxe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_ncreaz" height="30" width="40" /></a>
-</p>
+![Temporal Coding Endurance](https://streak-stats.demolab.com/?user=iftekharanwar&theme=dark)
 
+## 🌐 Paths of Communion
 
-    
+[![LinkedIn Scroll](https://img.shields.io/badge/Scroll_of_Professional_Connections-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iftekharanwar/)
+[![Instagram Tapestry](https://img.shields.io/badge/Visual_Chronicles-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wespaxe)
 
+## 📜 Visitor's Ledger
 
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iftekharanwar&bg_color=000000&color=b1dd8c&line=4f7a28&point=f2f7b7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Wandering Souls](https://visitor-badge.laobi.icu/badge?page_id=iftekharanwar.iftekharanwar)
 
--->
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
-
-<p align="left">👋 I'm an undergrad who loves to wander around and learn stuff in order to make a change. I'm a passionate developer and tech enthusiast </p>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/iftekharanwar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="left">💻 Tech Stack</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
-</div>
-
-###
-
-<h3 align="left">📊 My Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iftekharanwar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iftekharanwar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=iftekharanwar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=iftekharanwar.iftekharanwar&"  />
-</div>
-
-###
-
-
-
+*In the grand manuscript of technological evolution, each line of code is a verse, each project a chapter.*
