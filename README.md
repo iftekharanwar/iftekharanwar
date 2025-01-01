@@ -67,10 +67,10 @@ shell
 ### 🛰️ Scholarly Expeditions
 [SCAN] Analyzing neural imprints...
 
-- Esteemed Ex-Leader of the [CUBESAT](https://cubesat-team-polito.com) Celestial Exploration Squadron at PoliTo
+- Esteemed Leader of the [CUBESAT](https://cubesat-team-polito.com) Celestial Exploration Squadron at PoliTo
 - Architect of the FSI Division within [Team S55](http://www.teams55.polito.it) at PoliTo
-- Ex-Veteran of the Illustrious [Polito Rocket Team](https://www.politorocketteam.it/projects)
-- Ex-Diplomatic Envoy with [SIT PoliTo](https://socialinnovationteams.org/en/sit-social-innovation-teams-2/) in the Realm of Business Management
+- Veteran of the Illustrious [Polito Rocket Team](https://www.politorocketteam.it/projects)
+- Diplomatic Envoy with [SIT PoliTo](https://socialinnovationteams.org/en/sit-social-innovation-teams-2/) in the Realm of Business Management
 
 shell
 matrix@quantum-node:/$ ./neural-scan --deep --target=capabilities
