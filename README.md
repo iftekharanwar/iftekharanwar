@@ -29,7 +29,7 @@
 <div align="center">
 
 # `$ whoami --neural-scan`
-> [IDENTIFIED] Digital Cartograph | Code Architect | Matrix Navigator
+> [IDENTIFIED] Digital Cartographer | Code Architect | Matrix Navigator
 > [STATUS] Neural Link: Active | Consciousness: Synchronized | Matrix: Connected
 
 </div>
