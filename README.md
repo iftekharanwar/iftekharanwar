@@ -13,7 +13,7 @@
   <a href="https://github.com/iftekharanwar" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:iftekharanwar1002@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -41,8 +41,8 @@
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **PestPred AI** | Agricultural pest detection system | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | 🏆 Hackathon Winner |
-| **EduSmart** | AI-powered learning platform | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) | 🚀 Active Development |
+| **AgroMind AI** | Agricultural pest detection system | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | 🏆 Hackathon Winner |
+| **PoliCupid** | Platform to help connect university students | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) | 🚀 Active Development |
 | **CloudPhyx** | Cloud microphysics toolkit | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white) | 🔬 Research Phase |
 | **Zebedee Gaming** | Lightning Network gaming | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) | ⚡ Live Project |
 
@@ -63,11 +63,8 @@
 
 <!-- Verified Achievements -->
 ### 🏅 Key Achievements
-- 🥇 **1st Place** - National AI Hackathon (2023)
-- 🎖 **Tech Innovator Award** - Italian Tech Week
 - ♟ **Regional Chess Champion** (Under 25 Division)
 - 📢 **Featured Speaker** - AI for Social Good Conference
-- 🚀 **Top 10** - Google Cloud Startup Challenge
 
 <!-- Verified Footer -->
 <div align="center">
