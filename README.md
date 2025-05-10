@@ -80,3 +80,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=iftekharanwar&theme=onedark&no-frame=true&row=1&column=8" alt="Trophies">
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iftekharanwar&color=brightgreen" />
+  <br>
+  <i>Made with ❤️ by Iftekhar</i>
+</p>
