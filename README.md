@@ -73,3 +73,10 @@
 [![Followers](https://img.shields.io/github/followers/iftekharanwar?label=Follow&style=social)](https://github.com/iftekharanwar)
 
 </div>
+
+<!-- Achievements Carousel -->
+### 🏆 Trophy Case
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iftekharanwar&theme=onedark&no-frame=true&row=1&column=8" alt="Trophies">
+</div>
+
