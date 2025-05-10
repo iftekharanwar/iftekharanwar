@@ -66,6 +66,15 @@
 - ♟ **Regional Chess Champion** (Under 25 Division)
 - 📢 **Featured Speaker** - AI for Social Good Conference
 
+
+<!-- Achievements Carousel -->
+### 🏆 Trophy Case
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iftekharanwar&theme=onedark&no-frame=true&row=1&column=8" alt="Trophies">
+</div>
+
+<br>
+
 <!-- Verified Footer -->
 <div align="center">
   
@@ -74,14 +83,6 @@
 
 </div>
 
-<!-- Achievements Carousel -->
-### 🏆 Trophy Case
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iftekharanwar&theme=onedark&no-frame=true&row=1&column=8" alt="Trophies">
-</div>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iftekharanwar&color=brightgreen" />
-  <br>
   <i>Made with ❤️ by Iftekhar</i>
 </p>
