@@ -183,12 +183,12 @@ Status: 🟢 Research
 ## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="30" /> GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iftekharanwar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats-woad-six.vercel.app/api?username=iftekharanwar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iftekharanwar&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftekharanwar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" />
+  <img width="60%" src="https://github-readme-stats-woad-six.vercel.app/api/top-langs/?username=iftekharanwar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" />
 </div>
 
 <div align="center">
