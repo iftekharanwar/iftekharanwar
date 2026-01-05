@@ -72,41 +72,6 @@ Status: 🟢 Production
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-0066CC?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Accessibility-4CAF50?style=flat-square&logo=universal-access&logoColor=white"/>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎤 AI Pitch Assistant
-<sup>**PRODUCTIVITY / AI · 2025**</sup>
-
-AI-powered app that ensures presenters never miss critical points during high-stakes presentations. Your intelligent co-pilot for flawless delivery.
-
-```yaml
-Stack: [iOS, SwiftUI, AI, AirPods Integration]
-Innovation: "Real-time AI coaching"
-Status: 🟢 Active
-```
-
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-0066CC?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/AirPods-1DB954?style=flat-square&logo=apple&logoColor=white"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 Pest Prediction
-<sup>**AGRICULTURE TECH · 2024**</sup>
-
-Machine learning platform predicting pest outbreaks to help farmers take timely action. Data-driven agriculture for sustainable farming.
-
-```yaml
-Stack: [Python, Machine Learning, Data Science]
-Impact: "Predictive Analytics for Farmers"
-Status: 🟢 Research
-```
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Data_Science-4B8BBE?style=flat-square&logo=databricks&logoColor=white"/>
-
-</td>
-</tr>
 </table>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> Tech Stack
