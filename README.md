@@ -36,44 +36,6 @@ const iftekhar = {
 };
 ```
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30" /> Selected Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏛️ 3D Heritage Generator
-<sup>**CULTURAL TECH · 2025**</sup>
-
-Award-winning app and website that transforms 2D archival images into interactive 3D cultural heritage models. Bridging the past and future through cutting-edge reconstruction technology.
-
-```yaml
-Stack: [DPaaS, 3D Reconstruction, iOS, AR]
-Recognition: "Award Winner"
-Status: 🟢 Live
-```
-
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/ARKit-0071E3?style=flat-square&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/3D-FF6B6B?style=flat-square&logo=threedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
-
-</td>
-<td width="50%" valign="top">
-
-### ♿ Inclusive Tourism
-<sup>**SOCIAL IMPACT · 2025**</sup>
-
-First-prize winning iOS app designed with users to make tourism accessible for everyone. Human-centered design meeting real accessibility needs.
-
-```yaml
-Stack: [iOS, SwiftUI, Accessibility APIs, User Research]
-Recognition: "First Prize Winner"
-Status: 🟢 Production
-```
-
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-0066CC?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Accessibility-4CAF50?style=flat-square&logo=universal-access&logoColor=white"/>
-
-</td>
-</table>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> Tech Stack
 
 <details open>
