@@ -1,0 +1,33 @@
+name: Repo Pin Cards
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Repo Cards
+        uses: DenverCoder1/github-readme-repo-cards-action@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repos: remindmetocommit,CH4-BloodyMary,hot
+          output_dir: repo-cards
+          theme: dark
+          bg_color: 1A1410
+          title_color: E8A87C
+          icon_color: D4A373
+          text_color: E0D5CB
+          border_color: 3D2E22
+
+      - name: Commit Cards
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update repo cards"
+          file_pattern: repo-cards/*
