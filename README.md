@@ -49,18 +49,18 @@
 <br>
 
 <a href="https://github.com/iftekharanwar/remindmetocommit">
-  <img src="./repo-cards/remindmetocommit.svg" width="30%" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=iftekharanwar&repo=remindmetocommit&hide_border=true&bg_color=1A1410&title_color=E8A87C&icon_color=D4A373&text_color=E0D5CB" />
 </a>
 <a href="https://github.com/iftekharanwar/CH4-BloodyMary">
-  <img src="./repo-cards/CH4-BloodyMary.svg" width="30%" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=iftekharanwar&repo=CH4-BloodyMary&hide_border=true&bg_color=1A1410&title_color=E8A87C&icon_color=D4A373&text_color=E0D5CB" />
 </a>
 <a href="https://github.com/iftekharanwar/hot">
-  <img src="./repo-cards/hot.svg" width="30%" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=iftekharanwar&repo=hot&hide_border=true&bg_color=1A1410&title_color=E8A87C&icon_color=D4A373&text_color=E0D5CB" />
 </a>
 
 <br>
 
-<img src="./dev-quote.svg" width="50%" alt="Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First+solve+the+problem.+Then+write+the+code.&author=John+Johnson" width="50%" alt="Quote" />
 
 <br>
 
