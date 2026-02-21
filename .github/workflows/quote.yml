@@ -1,0 +1,28 @@
+name: Daily Dev Quote
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Dev Quote
+        uses: PiyushSuthar/github-readme-quotes@master
+        with:
+          QUOTE_THEME: dark
+          BG_COLOR: 1A1410
+          FONT_COLOR: E8A87C
+          OUTPUT: dev-quote.svg
+
+      - name: Commit Quote
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update daily dev quote"
+          file_pattern: dev-quote.svg
