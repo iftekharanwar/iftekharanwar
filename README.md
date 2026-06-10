@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Email-C38D6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D2017" />
 </a>
 <a href="https://www.instagram.com/inefflorix/">
-  <img src="https://img.shields.io/badge/@wespaxe-B07856?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2D2017" />
+  <img src="https://img.shields.io/badge/@inefflorix-B07856?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2D2017" />
 </a>
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contributions" />
