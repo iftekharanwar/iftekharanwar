@@ -15,7 +15,7 @@
 <a href="mailto:iftekharanwar1002@gmail.com">
   <img src="https://img.shields.io/badge/Email-C38D6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D2017" />
 </a>
-<a href="https://www.instagram.com/wespaxe/">
+<a href="https://www.instagram.com/inefflorix/">
   <img src="https://img.shields.io/badge/@wespaxe-B07856?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2D2017" />
 </a>
 
