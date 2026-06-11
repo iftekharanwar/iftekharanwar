@@ -38,11 +38,11 @@ Anyone can play. Click a square — it opens a pre-filled issue, you hit submit,
 <!--SIGNAL:START-->
 `11 Jun 2026` · auto-curated daily by a cron action — sister of my [signal-filter](https://github.com/iftekharanwar/signal-filter) pipeline
 
-> **[Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)** — 607 pts
+> **[Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)** — 610 pts
 >
 > **[AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)** — 535 pts
 >
-> **[Lines of code got a better publicist](https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/)** — 313 pts
+> **[Lines of code got a better publicist](https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/)** — 314 pts
 <!--SIGNAL:END-->
 
 <br>
