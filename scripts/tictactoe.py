@@ -81,7 +81,7 @@ def render_readme(state, status):
     section = (
         "<!--TTT:START-->\n"
         '<img src="./assets/board.svg" width="300" alt="tic-tac-toe board"/>\n\n'
-        f"**Your move** (opens a pre-filled issue, just hit submit): {links}\n\n"
+        f"**Your move:** {links}\n\n"
         f"`humans {s['humans']} · bot {s['bot']} · draws {s['draws']}`"
         f"{' · last player: **' + state['last'] + '**' if state['last'] else ''}\n"
         "<!--TTT:END-->")
@@ -105,7 +105,7 @@ def main():
         return
     pos, player = int(sys.argv[1]) - 1, sys.argv[2]
     if not 0 <= pos <= 8 or b[pos] or winner(b):
-        msg = f"Square {pos + 1} isn't available — the board has moved on. Check the README for the live state."
+        msg = f"Square {pos + 1} is taken or the game moved on. Check the board for the live state."
     else:
         b[pos] = "X"
         state["last"] = f"@{player}"
@@ -116,18 +116,18 @@ def main():
             w = winner(b)
         if w == "X":
             state["stats"]["humans"] += 1
-            msg = f"@{player} beat the bot. Respect. Fresh board is up."
+            msg = f"@{player} beat the bot. New board is up."
             status = f"@{player} won — new game"
         elif w == "O":
             state["stats"]["bot"] += 1
-            msg = f"The bot wins this one, @{player}. It plays perfect minimax — a draw is the best you can do. Fresh board is up."
+            msg = f"Bot wins, @{player}. It plays perfect minimax, so a draw is the best anyone can get. New board is up."
             status = "bot won — new game"
         elif w == "draw":
             state["stats"]["draws"] += 1
-            msg = f"Draw, @{player} — that's as good as it gets against minimax. Fresh board is up."
+            msg = f"Draw, @{player}. Against minimax that's the ceiling. New board is up."
             status = "draw — new game"
         else:
-            msg = f"Move registered, @{player}. The bot answered — your turn again."
+            msg = f"Move played, @{player}. The bot answered, your turn."
             status = "you are X — your move"
         if w:
             state["board"] = [""] * 9

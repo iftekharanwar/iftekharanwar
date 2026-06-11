@@ -49,7 +49,7 @@ def main():
         rows = "> quiet day on the wire"
     section = (
         "<!--SIGNAL:START-->\n"
-        f"`{today}` · auto-curated daily by a cron action — sister of my [signal-filter](https://github.com/iftekharanwar/signal-filter) pipeline\n\n"
+        f"`{today}` · top AI stories of the last 24h, picked daily by [this action](./.github/workflows/signal.yml)\n\n"
         f"{rows}\n"
         "<!--SIGNAL:END-->")
     text = README.read_text()

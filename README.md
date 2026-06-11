@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:862d2d,20:86862d,40:2d862d,60:2d8686,80:2d2d86,100:862d86&text=IFTEKHAR%20ANWAR&fontColor=eeeeff&fontSize=50&fontAlignY=55&animation=twinkling" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=EEEEFF&center=true&vCenter=true&repeat=true&width=520&lines=Building+agents+that+build+things;Teaching+machines+to+read+brains;CTO+%40+Compex+%E2%80%94+privacy-first+AI;8x+hackathon+winner+%F0%9F%8F%86;Ship+the+80%25%2C+skip+the+gold-plating" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=EEEEFF&center=true&vCenter=true&repeat=true&width=520&lines=I+build+agents+and+ML+systems;brain+decoders+%C2%B7+voice+agents+%C2%B7+quake+alarms;8x+hackathon+winner;Politecnico+di+Torino+%C2%B7+Apple+Developer+Academy" alt="Typing SVG" /></a>
 
 <br>
 
@@ -23,12 +23,12 @@
 
 ## 🎮 Beat my bot
 
-Anyone can play. Click a square — it opens a pre-filled issue, you hit submit, and a GitHub Action plays the bot's answer back onto this page within seconds.
+Pick a square. It opens a pre-filled issue; hit submit and the bot answers on this page in seconds.
 
 <!--TTT:START-->
 <img src="./assets/board.svg" width="300" alt="tic-tac-toe board"/>
 
-**Your move** (opens a pre-filled issue, just hit submit): [4](https://github.com/iftekharanwar/iftekharanwar/issues/new?title=ttt%7C4&body=Just+press+%22Submit+new+issue%22+%E2%80%94+the+bot+answers+in+~30s.) · [6](https://github.com/iftekharanwar/iftekharanwar/issues/new?title=ttt%7C6&body=Just+press+%22Submit+new+issue%22+%E2%80%94+the+bot+answers+in+~30s.) · [7](https://github.com/iftekharanwar/iftekharanwar/issues/new?title=ttt%7C7&body=Just+press+%22Submit+new+issue%22+%E2%80%94+the+bot+answers+in+~30s.)
+**Your move:** [4](https://github.com/iftekharanwar/iftekharanwar/issues/new?title=ttt%7C4&body=Just+press+%22Submit+new+issue%22+%E2%80%94+the+bot+answers+in+~30s.) · [6](https://github.com/iftekharanwar/iftekharanwar/issues/new?title=ttt%7C6&body=Just+press+%22Submit+new+issue%22+%E2%80%94+the+bot+answers+in+~30s.) · [7](https://github.com/iftekharanwar/iftekharanwar/issues/new?title=ttt%7C7&body=Just+press+%22Submit+new+issue%22+%E2%80%94+the+bot+answers+in+~30s.)
 
 `humans 0 · bot 0 · draws 0` · last player: **@iftekharanwar**
 <!--TTT:END-->
@@ -36,13 +36,13 @@ Anyone can play. Click a square — it opens a pre-filled issue, you hit submit,
 ## 📡 Today's signal
 
 <!--SIGNAL:START-->
-`11 Jun 2026` · auto-curated daily by a cron action — sister of my [signal-filter](https://github.com/iftekharanwar/signal-filter) pipeline
+`11 Jun 2026` · top AI stories of the last 24h, picked daily by [this action](./.github/workflows/signal.yml)
 
-> **[Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)** — 610 pts
+> **[Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)** — 631 pts
 >
-> **[AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)** — 535 pts
+> **[AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)** — 536 pts
 >
-> **[Lines of code got a better publicist](https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/)** — 314 pts
+> **[Lines of code got a better publicist](https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/)** — 315 pts
 <!--SIGNAL:END-->
 
 <br>
