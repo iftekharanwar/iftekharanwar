@@ -1,0 +1,43 @@
+name: Tic-Tac-Toe
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  move:
+    if: startsWith(github.event.issue.title, 'ttt|')
+    runs-on: ubuntu-latest
+    concurrency: tictactoe
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Apply move
+        run: |
+          POS="${TITLE#ttt|}"
+          python3 scripts/tictactoe.py "$POS" "${{ github.event.issue.user.login }}"
+        env:
+          TITLE: ${{ github.event.issue.title }}
+
+      - name: Commit board
+        run: |
+          git config user.name "Iftekhar Anwar"
+          git config user.email "116110091+iftekharanwar@users.noreply.github.com"
+          git add README.md assets/game.json assets/board.svg
+          git diff --cached --quiet || git commit -m "ttt: move by @${{ github.event.issue.user.login }}"
+          git pull --rebase origin main && git push
+
+      - name: Reply and close
+        run: |
+          gh issue comment "$NUMBER" --repo "$REPO" --body-file comment.md
+          gh issue close "$NUMBER" --repo "$REPO"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NUMBER: ${{ github.event.issue.number }}
+          REPO: ${{ github.repository }}

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">
+  <style>
+    .l { font-size: 15px; opacity: 0; animation: type 0.9s steps(28, end) forwards; clip-path: inset(0 100% 0 0); }
+    .fast { animation-duration: 0.5s; }
+    @keyframes type { from { opacity: 1; clip-path: inset(0 100% 0 0); } to { opacity: 1; clip-path: inset(0 0 0 0); } }
+    .cursor { animation: blink 1.1s step-end infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .p  { fill: #5ad45a; }
+    .c  { fill: #eeeeff; }
+    .o  { fill: #aaaaaa; }
+    .b1 { fill: #d45a5a; } .b2 { fill: #d4d45a; } .b3 { fill: #5ad45a; }
+    .hl { fill: #5ad4d4; }
+    .mg { fill: #d45ad4; }
+    .t1 { animation-delay: 0.4s; }
+    .t2 { animation-delay: 1.5s; }
+    .t3 { animation-delay: 3.0s; }
+    .t4 { animation-delay: 4.1s; }
+    .t5 { animation-delay: 5.8s; }
+    .t6 { animation-delay: 6.9s; }
+    .t7 { animation-delay: 8.6s; }
+    .t8 { animation-delay: 9.7s; }
+  </style>
+
+  <rect width="760" height="330" rx="12" fill="#00000f" stroke="#2d2d86" stroke-width="1.5"/>
+  <rect width="760" height="34" rx="12" fill="#0a0a1f"/>
+  <rect y="22" width="760" height="12" fill="#0a0a1f"/>
+  <circle cx="22" cy="17" r="6" class="b1"/>
+  <circle cx="42" cy="17" r="6" class="b2"/>
+  <circle cx="62" cy="17" r="6" class="b3"/>
+  <text x="380" y="22" text-anchor="middle" class="o" font-size="12">iftekhar@mac ~ % zsh</text>
+
+  <text x="24" y="68"  class="l t1"><tspan class="p">$</tspan> <tspan class="c">whoami</tspan></text>
+  <text x="24" y="92"  class="l t2 fast"><tspan class="o">iftekhar</tspan> <tspan class="o">—</tspan> <tspan class="hl">CTO @ Compex</tspan> <tspan class="o">· PoliTo · Apple Developer Academy</tspan></text>
+
+  <text x="24" y="128" class="l t3"><tspan class="p">$</tspan> <tspan class="c">ls ~/builds</tspan></text>
+  <text x="24" y="152" class="l t4 fast"><tspan class="mg">brain-decoder</tspan>  <tspan class="hl">voice-agent</tspan>  <tspan class="b2">news-pipeline</tspan>  <tspan class="b3">defect-detector</tspan>  <tspan class="b1">quake-warning</tspan></text>
+
+  <text x="24" y="188" class="l t5"><tspan class="p">$</tspan> <tspan class="c">cat motto.txt</tspan></text>
+  <text x="24" y="212" class="l t6 fast"><tspan class="o">loosely-specified problem in the morning, working demo by night</tspan></text>
+
+  <text x="24" y="248" class="l t7"><tspan class="p">$</tspan> <tspan class="c">./current_obsession --now</tspan></text>
+  <text x="24" y="272" class="l t8 fast"><tspan class="hl">&gt; agents doing the boring parts of every job</tspan></text>
+
+  <rect x="24" y="288" width="9" height="17" class="cursor" fill="#eeeeff"/>
+</svg>

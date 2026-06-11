@@ -1,0 +1,28 @@
+name: Daily Signal
+
+on:
+  schedule:
+    - cron: "30 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  signal:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Curate headlines
+        run: python3 scripts/signal.py
+
+      - name: Commit
+        run: |
+          git config user.name "Iftekhar Anwar"
+          git config user.email "116110091+iftekharanwar@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "signal: daily headlines"
+          git pull --rebase origin main && git push

@@ -16,24 +16,36 @@
   <img src="https://img.shields.io/badge/Email-862d2d?style=for-the-badge&logo=gmail&logoColor=eeeeff&labelColor=00000f" />
 </a>
 
-</div>
-
+<br>
 <br>
 
-```python
-class Iftekhar:
-    def __init__(self):
-        self.role     = "Co-founder & CTO @ Compex"
-        self.studies  = ["Computer Engineering @ PoliTo", "iOS @ Apple Developer Academy"]
-        self.builds   = ["autonomous agents", "brain-decoding models", "things that ship"]
-        self.stack    = ["PyTorch", "Claude Code + MCP", "Swift", "FastAPI", "Next.js"]
-        self.motto    = "loosely-specified problem in the morning, working demo by night"
+<img src="./assets/terminal.svg" width="92%" alt="terminal"/>
 
-    def current_obsession(self):
-        return "AI agents doing the boring parts of every job"
-```
+## 🎮 Beat my bot
 
-<div align="center">
+Anyone can play. Click a square — it opens a pre-filled issue, you hit submit, and a GitHub Action plays the bot's answer back onto this page within seconds.
+
+<!--TTT:START-->
+<img src="./assets/board.svg" width="300" alt="tic-tac-toe board"/>
+
+**Your move** (opens a pre-filled issue, just hit submit): [1](https://github.com/iftekharanwar/iftekharanwar/issues/new?title=ttt%7C1&body=Just+press+%22Submit+new+issue%22+%E2%80%94+the+bot+answers+in+~30s.) · [2](https://github.com/iftekharanwar/iftekharanwar/issues/new?title=ttt%7C2&body=Just+press+%22Submit+new+issue%22+%E2%80%94+the+bot+answers+in+~30s.) · [3](https://github.com/iftekharanwar/iftekharanwar/issues/new?title=ttt%7C3&body=Just+press+%22Submit+new+issue%22+%E2%80%94+the+bot+answers+in+~30s.) · [4](https://github.com/iftekharanwar/iftekharanwar/issues/new?title=ttt%7C4&body=Just+press+%22Submit+new+issue%22+%E2%80%94+the+bot+answers+in+~30s.) · [5](https://github.com/iftekharanwar/iftekharanwar/issues/new?title=ttt%7C5&body=Just+press+%22Submit+new+issue%22+%E2%80%94+the+bot+answers+in+~30s.) · [6](https://github.com/iftekharanwar/iftekharanwar/issues/new?title=ttt%7C6&body=Just+press+%22Submit+new+issue%22+%E2%80%94+the+bot+answers+in+~30s.) · [7](https://github.com/iftekharanwar/iftekharanwar/issues/new?title=ttt%7C7&body=Just+press+%22Submit+new+issue%22+%E2%80%94+the+bot+answers+in+~30s.) · [8](https://github.com/iftekharanwar/iftekharanwar/issues/new?title=ttt%7C8&body=Just+press+%22Submit+new+issue%22+%E2%80%94+the+bot+answers+in+~30s.) · [9](https://github.com/iftekharanwar/iftekharanwar/issues/new?title=ttt%7C9&body=Just+press+%22Submit+new+issue%22+%E2%80%94+the+bot+answers+in+~30s.)
+
+`humans 0 · bot 0 · draws 0`
+<!--TTT:END-->
+
+## 📡 Today's signal
+
+<!--SIGNAL:START-->
+`11 Jun 2026` · auto-curated daily by a cron action — sister of my [signal-filter](https://github.com/iftekharanwar/signal-filter) pipeline
+
+> **[Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)** — 607 pts
+>
+> **[AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)** — 535 pts
+>
+> **[Lines of code got a better publicist](https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/)** — 313 pts
+<!--SIGNAL:END-->
+
+<br>
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions" />
 
