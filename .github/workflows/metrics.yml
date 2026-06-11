@@ -23,12 +23,12 @@ jobs:
           base: header
           config_timezone: Europe/Rome
           plugin_languages: yes
+          plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: programming
-          plugin_languages_limit: 8
+          plugin_languages_limit: 6
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
-          plugin_lines: yes
 
       - name: Commit metrics
         uses: stefanzweifel/git-auto-commit-action@v5
