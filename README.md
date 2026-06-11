@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:862d2d,20:86862d,40:2d862d,60:2d8686,80:2d2d86,100:862d86&text=IFTEKHAR%20ANWAR&fontColor=eeeeff&fontSize=50&fontAlignY=55&animation=twinkling" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=EEEEFF&center=true&vCenter=true&repeat=true&width=520&lines=I+build+agents+and+ML+systems;brain+decoders+%C2%B7+voice+agents+%C2%B7+quake+alarms;8x+hackathon+winner;Politecnico+di+Torino+%C2%B7+Apple+Developer+Academy" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=EEEEFF&center=true&vCenter=true&repeat=true&width=520&lines=I+build+agents%2C+ML+systems+and+iOS+apps;brain+decoders+%C2%B7+voice+agents+%C2%B7+quake+alarms;10x+hackathon+winner;Politecnico+di+Torino+%C2%B7+Apple+Developer+Academy" alt="Typing SVG" /></a>
 
 <br>
 
