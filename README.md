@@ -52,8 +52,6 @@ Pick a square. It opens a pre-filled issue; hit submit and the bot answers on th
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iftekharanwar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000f&title_color=eeeeff&icon_color=d45ad4&text_color=aaaaaa&ring_color=5ad4d4" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iftekharanwar&hide_border=true&background=00000f&stroke=2d2d86&ring=5ad4d4&fire=d45a5a&currStreakLabel=eeeeff&sideLabels=aaaaaa&currStreakNum=eeeeff&sideNums=eeeeff&dates=aaaaaa" />
 
-<img src="./github-metrics.svg" width="60%" alt="languages console"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iftekharanwar&bg_color=00000f&color=eeeeff&line=862d86&point=eeeeff&area=true&hide_border=true&area_color=2d2d8633" width="98%"/>
 
 <picture>
