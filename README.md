@@ -28,7 +28,7 @@ Pick a square. It opens a pre-filled issue; hit submit and the bot answers on th
 <!--TTT:START-->
 <img src="./assets/board.svg" width="300" alt="tic-tac-toe board"/>
 
-**Your move:** [4](https://github.com/iftekharanwar/iftekharanwar/issues/new?title=ttt%7C4&body=Just+press+%22Submit+new+issue%22+%E2%80%94+the+bot+answers+in+~30s.) · [6](https://github.com/iftekharanwar/iftekharanwar/issues/new?title=ttt%7C6&body=Just+press+%22Submit+new+issue%22+%E2%80%94+the+bot+answers+in+~30s.) · [7](https://github.com/iftekharanwar/iftekharanwar/issues/new?title=ttt%7C7&body=Just+press+%22Submit+new+issue%22+%E2%80%94+the+bot+answers+in+~30s.)
+**Your move:** [7](https://github.com/iftekharanwar/iftekharanwar/issues/new?title=ttt%7C7&body=Just+press+%22Submit+new+issue%22+%E2%80%94+the+bot+answers+in+~30s.)
 
 `humans 0 · bot 0 · draws 0` · last player: **@iftekharanwar**
 <!--TTT:END-->
