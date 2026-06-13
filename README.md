@@ -36,13 +36,13 @@ Pick a square. It opens a pre-filled issue; hit submit and the bot answers on th
 ## 📡 Today's signal
 
 <!--SIGNAL:START-->
-`12 Jun 2026` · top AI stories of the last 24h, picked daily by [this action](./.github/workflows/signal.yml)
+`13 Jun 2026` · top AI stories of the last 24h, picked daily by [this action](./.github/workflows/signal.yml)
 
-> **[Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)** — 1250 pts
+> **[Statement on US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)** — 2254 pts
 >
-> **[AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)** — 639 pts
+> **[Kimi K2.7-Code: open-source coding model with better token efficiency](https://huggingface.co/moonshotai/Kimi-K2.7-Code)** — 429 pts
 >
-> **[Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)** — 485 pts
+> **[Pirates, a naval warfare game inspired by Sid Meier's Pirates](https://piwodlaiwo.github.io/pirates/)** — 261 pts
 <!--SIGNAL:END-->
 
 <br>
