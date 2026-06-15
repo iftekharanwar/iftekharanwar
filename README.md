@@ -36,13 +36,13 @@ Pick a square. It opens a pre-filled issue; hit submit and the bot answers on th
 ## 📡 Today's signal
 
 <!--SIGNAL:START-->
-`14 Jun 2026` · top AI stories of the last 24h, picked daily by [this action](./.github/workflows/signal.yml)
+`15 Jun 2026` · top AI stories of the last 24h, picked daily by [this action](./.github/workflows/signal.yml)
 
-> **[GLM 5.2 Is Out](https://twitter.com/jietang/status/2065784751345287314)** — 581 pts
+> **[Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)** — 597 pts
 >
-> **[AI OSS tool repo goes archived over night after raising $7.3M Seed](https://github.com/tensorzero/tensorzero)** — 261 pts
+> **[I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models](https://news.ycombinator.com/item?id=48528029)** — 380 pts
 >
-> **[Orthodox C++ (2016)](https://bkaradzic.github.io/posts/orthodoxc++/)** — 96 pts
+> **[Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](https://github.com/nex-agi/Nex-N2/issues/4)** — 368 pts
 <!--SIGNAL:END-->
 
 <br>
