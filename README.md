@@ -36,13 +36,13 @@ Pick a square. It opens a pre-filled issue; hit submit and the bot answers on th
 ## 📡 Today's signal
 
 <!--SIGNAL:START-->
-`15 Jun 2026` · top AI stories of the last 24h, picked daily by [this action](./.github/workflows/signal.yml)
+`16 Jun 2026` · top AI stories of the last 24h, picked daily by [this action](./.github/workflows/signal.yml)
 
-> **[Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)** — 597 pts
+> **[A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)** — 1261 pts
 >
-> **[I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models](https://news.ycombinator.com/item?id=48528029)** — 380 pts
+> **[Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](https://news.ycombinator.com/item?id=48542100)** — 1057 pts
 >
-> **[Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](https://github.com/nex-agi/Nex-N2/issues/4)** — 368 pts
+> **[Microsoft turns to AWS as GitHub faces AI capacity crunch](https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch)** — 151 pts
 <!--SIGNAL:END-->
 
 <br>
