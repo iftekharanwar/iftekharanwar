@@ -36,13 +36,9 @@ Pick a square. It opens a pre-filled issue; hit submit and the bot answers on th
 ## 📡 Today's signal
 
 <!--SIGNAL:START-->
-`16 Jun 2026` · top AI stories of the last 24h, picked daily by [this action](./.github/workflows/signal.yml)
+`17 Jun 2026` · top AI stories of the last 24h, picked daily by [this action](./.github/workflows/signal.yml)
 
-> **[A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)** — 1261 pts
->
-> **[Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](https://news.ycombinator.com/item?id=48542100)** — 1057 pts
->
-> **[Microsoft turns to AWS as GitHub faces AI capacity crunch](https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch)** — 151 pts
+> quiet day on the wire
 <!--SIGNAL:END-->
 
 <br>
