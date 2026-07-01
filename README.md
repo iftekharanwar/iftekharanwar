@@ -36,7 +36,7 @@ Pick a square. It opens a pre-filled issue; hit submit and the bot answers on th
 ## 📡 Today's signal
 
 <!--SIGNAL:START-->
-`30 Jun 2026` · top AI stories of the last 24h, picked daily by [this action](./.github/workflows/signal.yml)
+`01 Jul 2026` · top AI stories of the last 24h, picked daily by [this action](./.github/workflows/signal.yml)
 
 > quiet day on the wire
 <!--SIGNAL:END-->
